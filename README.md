@@ -1,2 +1,3 @@
 # DiploDatos_AyVD_Grupo18
-Diplomatura en Ciencia de Datos 2021 - Análisis y Visualización de Datos - Grupo18
+
+Entregas del Grupo18 para la materia Análisis y Visualización de Datos de la Diplomatura en Ciencia de Datos 2021.
